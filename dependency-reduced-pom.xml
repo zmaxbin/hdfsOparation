@@ -20,7 +20,7 @@
             <configuration>
               <transformers>
                 <transformer>
-                  <mainClass>com.maxbin.hadoop.twofiles.MutilRunner</mainClass>
+                  <mainClass>com.maxbin.hadoop.Hdfs2Hbase.Hdfs2HbaseRunner</mainClass>
                 </transformer>
                 <transformer>
                   <resource>META-INF/spring.handlers</resource>
@@ -36,6 +36,13 @@
     </plugins>
   </build>
   <dependencies>
+    <dependency>
+      <groupId>org.apache.hbase</groupId>
+      <artifactId>hbase</artifactId>
+      <version>1.2.6</version>
+      <type>pom</type>
+      <scope>compile</scope>
+    </dependency>
     <dependency>
       <groupId>jdk.tools</groupId>
       <artifactId>jdk.tools</artifactId>

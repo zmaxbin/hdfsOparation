@@ -1,7 +1,10 @@
+C:\Users\Maxbin\Desktop\hdfsOparation\src\main\java\com\maxbin\hadoop\Hdfs2Hbase\Hdfs2HbaseMapper.java
 C:\Users\Maxbin\Desktop\hdfsOparation\src\main\java\com\maxbin\hadoop\areapartition\FlowSumAreaPart.java
 C:\Users\Maxbin\Desktop\hdfsOparation\src\main\java\com\maxbin\hadoop\sinaInteractForecast\ForecastMapper.java
 C:\Users\Maxbin\Desktop\hdfsOparation\src\main\java\com\maxbin\hadoop\flowsort\SortMR.java
+C:\Users\Maxbin\Desktop\hdfsOparation\src\main\java\com\maxbin\hadoop\stjoin\STJoinRunner.java
 C:\Users\Maxbin\Desktop\hdfsOparation\src\main\java\com\maxbin\hadoop\wordCount\WcRunner.java
+C:\Users\Maxbin\Desktop\hdfsOparation\src\main\java\com\maxbin\hadoop\Hdfs2Hbase\Hdfs2HbaseRunner.java
 C:\Users\Maxbin\Desktop\hdfsOparation\src\main\java\com\maxbin\hadoop\llyy\topkurl\TopKURLMapper.java
 C:\Users\Maxbin\Desktop\hdfsOparation\src\main\java\com\maxbin\hadoop\splitword\TestDemo.java
 C:\Users\Maxbin\Desktop\hdfsOparation\src\main\java\com\maxbin\hadoop\twofiles\MutilMapper2.java
@@ -13,6 +16,7 @@ C:\Users\Maxbin\Desktop\hdfsOparation\src\main\java\com\maxbin\hadoop\twofiles\M
 C:\Users\Maxbin\Desktop\hdfsOparation\src\main\java\com\maxbin\hadoop\flowsum\FlowSumRunner.java
 C:\Users\Maxbin\Desktop\hdfsOparation\src\main\java\com\maxbin\hadoop\splitword\CutWord.java
 C:\Users\Maxbin\Desktop\hdfsOparation\src\main\java\com\maxbin\hadoop\twofiles\MutilRunner.java
+C:\Users\Maxbin\Desktop\hdfsOparation\src\main\java\com\maxbin\hadoop\Hdfs2Hbase\Hdfs2HbaseReducer.java
 C:\Users\Maxbin\Desktop\hdfsOparation\src\main\java\com\maxbin\hadoop\twofiles\TestDemo1.java
 C:\Users\Maxbin\Desktop\hdfsOparation\src\main\java\com\maxbin\hadoop\splitword\CutWordRunner.java
 C:\Users\Maxbin\Desktop\hdfsOparation\src\main\java\com\maxbin\hadoop\splitword\ReadStopWords.java
@@ -23,4 +27,6 @@ C:\Users\Maxbin\Desktop\hdfsOparation\src\main\java\com\maxbin\hadoop\twofiles\F
 C:\Users\Maxbin\Desktop\hdfsOparation\src\main\java\com\maxbin\hadoop\llyy\topkurl\TopKURLReducer.java
 C:\Users\Maxbin\Desktop\hdfsOparation\src\main\java\com\maxbin\hadoop\flowsum\FlowSumReducer.java
 C:\Users\Maxbin\Desktop\hdfsOparation\src\main\java\com\maxbin\hadoop\llyy\topkurl\TopKfileFormat.java
+C:\Users\Maxbin\Desktop\hdfsOparation\src\main\java\com\maxbin\hadoop\stjoin\STJoinMapper.java
+C:\Users\Maxbin\Desktop\hdfsOparation\src\main\java\com\maxbin\hadoop\stjoin\STJoinReducer.java
 C:\Users\Maxbin\Desktop\hdfsOparation\src\main\java\com\maxbin\hadoop\twofiles\MutilMapper1.java

@@ -7,7 +7,9 @@ com\maxbin\hadoop\flowsort\SortMR$SortMapper.class
 com\maxbin\hadoop\llyy\topkurl\TopKURLRunner.class
 com\maxbin\hadoop\splitword\TestDemo.class
 com\maxbin\hadoop\hdfsOparation\HdfsUtils.class
+com\maxbin\hadoop\stjoin\STJoinMapper.class
 com\maxbin\hadoop\llyy\topkurl\TopKURLMapper.class
+com\maxbin\hadoop\Hdfs2Hbase\Hdfs2HbaseReducer.class
 com\maxbin\hadoop\twofiles\MutilMapper1.class
 com\maxbin\hadoop\flowsort\SortMR$SortReducer.class
 com\maxbin\hadoop\twofiles\TestDemo1.class
@@ -15,12 +17,15 @@ com\maxbin\hadoop\flowsum\FlowSumRunner.class
 com\maxbin\hadoop\areapartition\FlowSumAreaPart$AreaMapper.class
 com\maxbin\hadoop\llyy\topkurl\TopKfileFormat$TopKgetRecordWriter.class
 com\maxbin\hadoop\wordCount\WcReducer.class
+com\maxbin\hadoop\Hdfs2Hbase\Hdfs2HbaseRunner.class
 com\maxbin\hadoop\llyy\topkurl\TopKURLReducer.class
 com\maxbin\hadoop\twofiles\MutilReducer.class
 com\maxbin\hadoop\flowsum\FlowBean.class
 com\maxbin\hadoop\areapartition\FlowSumAreaPart.class
 com\maxbin\hadoop\wordCount\WcMapper.class
 com\maxbin\hadoop\flowsort\SortMR.class
+com\maxbin\hadoop\stjoin\STJoinRunner.class
+com\maxbin\hadoop\Hdfs2Hbase\Hdfs2HbaseMapper.class
 com\maxbin\hadoop\areapartition\AreaPartitioner.class
 com\maxbin\hadoop\wordCount\WcRunner.class
 com\maxbin\hadoop\splitword\CutWord.class
@@ -29,5 +34,6 @@ com\maxbin\hadoop\splitword\TestDemo$1.class
 com\maxbin\hadoop\splitword\CutWordRunner.class
 com\maxbin\hadoop\areapartition\FlowSumAreaPart$AreaReducer.class
 com\maxbin\hadoop\llyy\topkurl\TopKfileFormat.class
+com\maxbin\hadoop\stjoin\STJoinReducer.class
 com\maxbin\hadoop\flowsum\FlowSumMapper.class
 com\maxbin\hadoop\twofiles\MutilMapper2.class
